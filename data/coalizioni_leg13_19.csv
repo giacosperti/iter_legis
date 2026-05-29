@@ -1,0 +1,81 @@
+legislatura,pol_party,sigla,giornialgoverno,governo,giornipm,primoministro,governo_nome,maggioranza
+13,AN,AN,0,0,0,0,,0
+13,Comunista,Comunista,0,0,0,0,,0
+13,Democrazia Europea,Democrazia Europea,964,3,0,0,D'Alema I;D'Alema II;Amato II,1
+13,DS-U,DS-U,1851,4,1851,1,Prodi I;D'Alema I;D'Alema II;Amato II,1
+13,FI,FI,0,0,0,0,,0
+13,LSP-PSd'Az,LSP-PSd'Az,0,0,0,0,,0
+13,Misto,Misto,0,0,0,0,,0
+13,PPI,PPI,1851,4,0,0,Prodi I;D'Alema I;D'Alema II;Amato II,1
+13,Rin.Ld.Ind-Pop.,Rin.Ld.Ind-Pop.,887,1,0,0,Prodi I,1
+13,Rinnovam.Ital.,Rinnovam.Ital.,1440,3,0,0,Prodi I;D'Alema I;D'Alema II,1
+13,Rinn.Ital.e.Ind.,Rinn.Ital.e.Ind.,1314,2,0,0,Prodi I;D'Alema I,1
+13,UDEUR,UDEUR,964,3,0,0,D'Alema I;D'Alema II;Amato II,1
+13,UDC,UDC,0,0,0,0,,0
+13,Verdi-Un,Verdi-Un,1298,2,0,0,Prodi I;Amato II,1
+14,AN,AN,1801,2,0,0,Berlusconi II;Berlusconi III,1
+14,Aut,Aut,1801,2,0,0,Berlusconi II;Berlusconi III,1
+14,DS-U,DS-U,0,0,0,0,,0
+14,FI,FI,1801,2,1801,1,Berlusconi II;Berlusconi III,1
+14,LSP-PSd'Az,LSP-PSd'Az,1801,2,0,0,Berlusconi II;Berlusconi III,1
+14,Mar-DL-U,Mar-DL-U,0,0,0,0,,0
+14,Misto,Misto,0,0,0,0,,0
+14,UDC,UDC,1801,2,0,0,Berlusconi II;Berlusconi III,1
+14,Verdi-Un,Verdi-Un,0,0,0,0,,0
+15,AN,AN,0,0,0,0,,0
+15,Aut,Aut,722,1,0,0,Prodi II,1
+15,DCA-PRI-MPA,DCA-PRI-MPA,0,0,0,0,,0
+15,FI,FI,0,0,0,0,,0
+15,IU-Verdi-Com,IU-Verdi-Com,722,1,0,0,Prodi II,1
+15,LSP-PSd'Az,LSP-PSd'Az,0,0,0,0,,0
+15,Misto,Misto,0,0,0,0,,0
+15,PD-IDP,PD-IDP,722,1,722,1,Prodi II,1
+15,RC-SE,RC-SE,722,1,0,0,Prodi II,1
+15,SDSE,SDSE,722,1,0,0,Prodi II,1
+15,UDC,UDC,0,0,0,0,,0
+16,CN:GS-SI-PID-IB-FI,CN:GS-SI-PID-IB-FI,1287,1,0,0,Berlusconi IV,1
+16,FDI-CDN,FDI-CDN,0,0,0,0,,0
+16,FI-BP-PPE,FI-BP-PPE,1816,2,1287,1,Berlusconi IV;Monti,1
+16,FLI,FLI,0,0,0,0,,0
+16,IdV,IdV,0,0,0,0,,0
+16,LSP-PSd'Az,LSP-PSd'Az,1287,1,0,0,Berlusconi IV,1
+16,Misto,Misto,0,0,0,0,,0
+16,PD-IDP,PD-IDP,529,1,0,0,Monti,1
+16,Per il Terzo Polo:ApI-FLI-CD,Per il Terzo Polo:ApI-FLI-CD,529,1,0,0,Monti,1
+16,UDC-SVP-AUT:UV-MAIE-VN-MRE-PLI-PSI,UDC-SVP-AUT:UV-MAIE-VN-MRE-PLI-PSI,529,1,0,0,Monti,1
+17,ALA-PRI,ALA-PRI,1560,2,0,0,Renzi;Gentiloni,1
+17,AP-CpE-NCD,AP-CpE-NCD,1860,3,0,0,Letta;Renzi;Gentiloni,1
+17,Art.1-MDP-LeU,Art.1-MDP-LeU,0,0,0,0,,0
+17,"Aut(SVP-PATT,Cb)","Aut(SVP-PATT,Cb)",1860,3,0,0,Letta;Renzi;Gentiloni,1
+17,CoR,CoR,0,0,0,0,,0
+17,"FL(Id-PL,PLI)","FL(Id-PL,PLI)",0,0,0,0,,0
+17,FI-BP-PPE,FI-BP-PPE,0,0,0,0,,0
+17,GAL-UDC,GAL-UDC,1860,3,0,0,Letta;Renzi;Gentiloni,1
+17,LSP-PSd'Az,LSP-PSd'Az,0,0,0,0,,0
+17,Misto,Misto,0,0,0,0,,0
+17,M5S,M5S,0,0,0,0,,0
+17,NcI,NcI,1560,2,0,0,Renzi;Gentiloni,1
+17,PD-IDP,PD-IDP,1860,3,1860,1,Letta;Renzi;Gentiloni,1
+17,PI,PI,300,1,0,0,Letta,1
+17,SCpI,SCpI,300,1,0,0,Letta,1
+18,"Aut(SVP-PATT,Cb)","Aut(SVP-PATT,Cb)",686,2,0,0,Gentiloni (reggenza);Draghi,1
+18,C.A.L.-Idv,C.A.L.-Idv,0,0,0,0,,0
+18,Europeisti-MAIE-CD,Europeisti-MAIE-CD,1143,2,0,0,Conte II;Draghi,1
+18,FI-BP-PPE,FI-BP-PPE,616,1,0,0,Draghi,1
+18,FdI,FdI,0,0,0,0,,0
+18,Ipf-CD,Ipf-CD,616,1,0,0,Draghi,1
+18,IV-PSI,IV-PSI,1143,2,0,0,Conte II;Draghi,1
+18,LSP-PSd'Az,LSP-PSd'Az,1077,2,0,0,Conte I;Draghi,1
+18,Misto,Misto,0,0,0,0,,0
+18,M5S,M5S,1604,3,988,1,Conte I;Conte II;Draghi,1
+18,PD-IDP,PD-IDP,1213,3,70,1,Gentiloni (reggenza);Conte II;Draghi,1
+18,UpC-CAL-Alt-PC-AI-Pr.SMART-IdV,UpC-CAL-Alt-PC-AI-Pr.SMART-IdV,0,0,0,0,,0
+19,"Aut(SVP-PATT,Cb)","Aut(SVP-PATT,Cb)",0,0,0,0,,0
+19,"Cd'I-UDC-NM(NcI,CI,IaC)-MAIE-CP","Cd'I-UDC-NM(NcI,CI,IaC)-MAIE-CP",1307,1,0,0,Meloni,1
+19,FI-BP-PPE,FI-BP-PPE,1307,1,0,0,Meloni,1
+19,FdI,FdI,1307,1,1307,1,Meloni,1
+19,IV-C-RE,IV-C-RE,0,0,0,0,,0
+19,LSP-PSd'Az,LSP-PSd'Az,1307,1,0,0,Meloni,1
+19,Misto,Misto,0,0,0,0,,0
+19,M5S,M5S,0,0,0,0,,0
+19,PD-IDP,PD-IDP,0,0,0,0,,0

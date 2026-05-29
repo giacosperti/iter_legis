@@ -1,0 +1,85 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "atto_id": {
+      "type": "string",
+      "title": "ID Atto"
+    },
+    "leg": {
+      "type": "string",
+      "title": "Legislatura"
+    },
+    "ddl_versions": {
+      "type": "object",
+      "title": "Versioni DDL",
+      "properties": {
+        "ddlpres": { "$ref": "#/definitions/ddl_version" },
+        "ddlcomm": { "$ref": "#/definitions/ddl_version" },
+        "ddlmess": { "$ref": "#/definitions/ddl_version" }
+      }
+    },
+    "amendments": {
+      "type": "array",
+      "title": "Emendamenti",
+      "items": {
+        "type": "object",
+        "properties": {
+          "metadata": {
+            "type": "object",
+            "properties": {
+              "id": { "type": "string", "title": "ID Emendamento" },
+              "number": { "type": "string", "title": "Numero" },
+              "date": { "type": "string", "title": "Data" },
+              "target_info": { "type": "string", "title": "Target (Articolo)" }
+            }
+          },
+          "enriched_proponents": {
+            "type": "array",
+            "title": "Proponenti",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": { "type": "string", "title": "ID Senatore" },
+                "name": { "type": "string", "title": "Nome" },
+                "group": { "type": "string", "title": "Gruppo Politico" },
+                "gender": { "type": "string", "title": "Genere" }
+              }
+            }
+          },
+          "content": {
+            "type": "array",
+            "title": "Contenuto",
+            "items": { "type": "string" }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "ddl_version": {
+      "type": "object",
+      "properties": {
+        "metadata": {
+          "type": "object",
+          "properties": {
+            "date": { "type": "string", "title": "Data Versione" },
+            "number": { "type": "string", "title": "Numero Atto" }
+          }
+        },
+        "articles": {
+          "type": "array",
+          "title": "Articoli",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": { "type": "string", "title": "ID Articolo" },
+              "num": { "type": "string", "title": "Num Articolo" },
+              "heading": { "type": "string", "title": "Titolo Articolo" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

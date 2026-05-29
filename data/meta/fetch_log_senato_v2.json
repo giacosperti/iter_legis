@@ -1,0 +1,132 @@
+{
+  "run_ts": "2026-05-29T14:34:48.023908+00:00",
+  "legs": [
+    17,
+    18,
+    19
+  ],
+  "results": [
+    {
+      "legislatura": 13,
+      "status": "ok",
+      "n_ddl": 13318,
+      "rami": {
+        "C": 7979,
+        "S": 5339
+      },
+      "n_primo_firmatario": 4074,
+      "n_testo_presentato": 5262,
+      "n_con_emendamenti": 6,
+      "elapsed_s": 503.7,
+      "fetch_ts": "2026-05-29T10:44:11.855107+00:00"
+    },
+    {
+      "legislatura": 14,
+      "status": "ok",
+      "n_ddl": 10483,
+      "rami": {
+        "C": 6508,
+        "S": 3975
+      },
+      "n_primo_firmatario": 3153,
+      "n_testo_presentato": 3954,
+      "n_con_emendamenti": 527,
+      "elapsed_s": 416.6,
+      "fetch_ts": "2026-05-29T10:44:11.855107+00:00"
+    },
+    {
+      "legislatura": 15,
+      "status": "ok",
+      "n_ddl": 5568,
+      "rami": {
+        "C": 3512,
+        "S": 2056
+      },
+      "n_primo_firmatario": 1828,
+      "n_testo_presentato": 2031,
+      "n_con_emendamenti": 144,
+      "elapsed_s": 169.6,
+      "fetch_ts": "2026-05-29T10:44:11.855107+00:00"
+    },
+    {
+      "legislatura": 16,
+      "status": "ok",
+      "n_ddl": 9572,
+      "rami": {
+        "C": 5824,
+        "S": 3748
+      },
+      "n_primo_firmatario": 3225,
+      "n_testo_presentato": 3731,
+      "n_con_emendamenti": 629,
+      "elapsed_s": 413.8,
+      "fetch_ts": "2026-05-29T10:44:11.855107+00:00"
+    },
+    {
+      "legislatura": 17,
+      "status": "ok",
+      "n_ddl": 8004,
+      "rami": {
+        "C": 4908,
+        "S": 3096
+      },
+      "n_primo_firmatario": 1393,
+      "n_testo_presentato": 3077,
+      "n_con_emendamenti": 552,
+      "elapsed_s": 227.8,
+      "fetch_ts": "2026-05-29T10:44:11.855107+00:00"
+    },
+    {
+      "legislatura": 18,
+      "status": "empty",
+      "n_ddl": 0
+    },
+    {
+      "legislatura": 19,
+      "status": "empty",
+      "n_ddl": 0
+    },
+    {
+      "legislatura": 17,
+      "status": "ok",
+      "n_ddl": 8004,
+      "rami": {
+        "C": 4908,
+        "S": 3096
+      },
+      "n_primo_firmatario": 2605,
+      "n_testo_presentato": 3077,
+      "n_con_emendamenti": 552,
+      "elapsed_s": 229.2,
+      "fetch_ts": "2026-05-29T14:34:48.023908+00:00"
+    },
+    {
+      "legislatura": 18,
+      "status": "ok",
+      "n_ddl": 6479,
+      "rami": {
+        "C": 3760,
+        "S": 2719
+      },
+      "n_primo_firmatario": 2317,
+      "n_testo_presentato": 2716,
+      "n_con_emendamenti": 403,
+      "elapsed_s": 455.1,
+      "fetch_ts": "2026-05-29T14:34:48.023908+00:00"
+    },
+    {
+      "legislatura": 19,
+      "status": "ok",
+      "n_ddl": 4918,
+      "rami": {
+        "C": 2967,
+        "S": 1951
+      },
+      "n_primo_firmatario": 1523,
+      "n_testo_presentato": 1810,
+      "n_con_emendamenti": 206,
+      "elapsed_s": 166.8,
+      "fetch_ts": "2026-05-29T14:34:48.023908+00:00"
+    }
+  ]
+}

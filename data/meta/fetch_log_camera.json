@@ -1,0 +1,84 @@
+{
+  "run_ts": "2026-05-28T10:50:39.014922+00:00",
+  "legs": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "results": [
+    {
+      "legislatura": 13,
+      "status": "ok",
+      "n_atti": 8281,
+      "n_has_testo": 0,
+      "n_has_natura": 0,
+      "n_has_stato": 0,
+      "elapsed_s": 94.2,
+      "fetch_ts": "2026-05-28T10:50:39.014922+00:00"
+    },
+    {
+      "legislatura": 14,
+      "status": "ok",
+      "n_atti": 7176,
+      "n_has_testo": 0,
+      "n_has_natura": 0,
+      "n_has_stato": 0,
+      "elapsed_s": 80.2,
+      "fetch_ts": "2026-05-28T10:50:39.014922+00:00"
+    },
+    {
+      "legislatura": 15,
+      "status": "ok",
+      "n_atti": 3620,
+      "n_has_testo": 0,
+      "n_has_natura": 0,
+      "n_has_stato": 0,
+      "elapsed_s": 42.4,
+      "fetch_ts": "2026-05-28T10:50:39.014922+00:00"
+    },
+    {
+      "legislatura": 16,
+      "status": "ok",
+      "n_atti": 5820,
+      "n_has_testo": 8,
+      "n_has_natura": 5820,
+      "n_has_stato": 17,
+      "elapsed_s": 65.6,
+      "fetch_ts": "2026-05-28T10:50:39.014922+00:00"
+    },
+    {
+      "legislatura": 17,
+      "status": "ok",
+      "n_atti": 4903,
+      "n_has_testo": 4846,
+      "n_has_natura": 4903,
+      "n_has_stato": 4903,
+      "elapsed_s": 61.6,
+      "fetch_ts": "2026-05-28T10:50:39.014922+00:00"
+    },
+    {
+      "legislatura": 18,
+      "status": "ok",
+      "n_atti": 3757,
+      "n_has_testo": 3691,
+      "n_has_natura": 3757,
+      "n_has_stato": 3757,
+      "elapsed_s": 47.7,
+      "fetch_ts": "2026-05-28T10:50:39.014922+00:00"
+    },
+    {
+      "legislatura": 19,
+      "status": "ok",
+      "n_atti": 2965,
+      "n_has_testo": 2655,
+      "n_has_natura": 2965,
+      "n_has_stato": 2965,
+      "elapsed_s": 36.5,
+      "fetch_ts": "2026-05-28T10:50:39.014922+00:00"
+    }
+  ]
+}

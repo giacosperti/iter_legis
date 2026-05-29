@@ -1,0 +1,79 @@
+{
+  "run_ts": "2026-05-29T12:15:29.650026+00:00",
+  "legs": [
+    13,
+    14,
+    15,
+    16,
+    18,
+    19
+  ],
+  "results": [
+    {
+      "legislatura": 13,
+      "status": "ok",
+      "n_atti": 8281,
+      "n_has_primo_firmatario": 7473,
+      "n_has_cofirmatari": 3805,
+      "n_has_data_assegnazione": 0,
+      "n_has_data_approvazione": 0,
+      "elapsed_s": 222.8,
+      "fetch_ts": "2026-05-29T12:15:29.650026+00:00"
+    },
+    {
+      "legislatura": 14,
+      "status": "ok",
+      "n_atti": 7176,
+      "n_has_primo_firmatario": 6466,
+      "n_has_cofirmatari": 3381,
+      "n_has_data_assegnazione": 0,
+      "n_has_data_approvazione": 0,
+      "elapsed_s": 198.3,
+      "fetch_ts": "2026-05-29T12:15:29.650026+00:00"
+    },
+    {
+      "legislatura": 15,
+      "status": "ok",
+      "n_atti": 3620,
+      "n_has_primo_firmatario": 3577,
+      "n_has_cofirmatari": 1982,
+      "n_has_data_assegnazione": 0,
+      "n_has_data_approvazione": 0,
+      "elapsed_s": 110.9,
+      "fetch_ts": "2026-05-29T12:15:29.650026+00:00"
+    },
+    {
+      "legislatura": 16,
+      "status": "ok",
+      "n_atti": 5820,
+      "n_has_primo_firmatario": 5687,
+      "n_has_cofirmatari": 4027,
+      "n_has_data_assegnazione": 0,
+      "n_has_data_approvazione": 0,
+      "elapsed_s": 165.3,
+      "fetch_ts": "2026-05-29T12:15:29.650026+00:00"
+    },
+    {
+      "legislatura": 18,
+      "status": "ok",
+      "n_atti": 3757,
+      "n_has_primo_firmatario": 3593,
+      "n_has_cofirmatari": 2215,
+      "n_has_data_assegnazione": 3756,
+      "n_has_data_approvazione": 145,
+      "elapsed_s": 125.3,
+      "fetch_ts": "2026-05-29T12:15:29.650026+00:00"
+    },
+    {
+      "legislatura": 19,
+      "status": "ok",
+      "n_atti": 2965,
+      "n_has_primo_firmatario": 2773,
+      "n_has_cofirmatari": 1702,
+      "n_has_data_assegnazione": 2965,
+      "n_has_data_approvazione": 162,
+      "elapsed_s": 89.1,
+      "fetch_ts": "2026-05-29T12:15:29.650026+00:00"
+    }
+  ]
+}

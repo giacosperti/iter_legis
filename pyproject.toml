@@ -1,0 +1,10 @@
+[project]
+name = "iter-legis"
+version = "0.1.0"
+description = "Pipeline ETL per l'analisi del processo legislativo del Senato Italiano"
+requires-python = ">=3.11"
+dependencies = [
+    "duckdb",
+    "polars",
+    "pyarrow",
+]
